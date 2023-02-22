@@ -8,7 +8,7 @@ char y[] = "_putchar";
   
   for (j=0; y[j]; j++)
   _putchar(y[j]);
-  _putchar(\n);
+  _putchar('\n');
   
   return 0;
 }

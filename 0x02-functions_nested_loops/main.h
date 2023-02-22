@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 #ifndef BAN_H
-#DEFINE BAN_H
+#define BAN_H
 
 int _putchar(char c);
 void print_alphabet(void);
